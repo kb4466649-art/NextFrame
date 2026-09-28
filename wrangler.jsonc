@@ -1,0 +1,8 @@
+{
+  "name": "nextframe",
+  "main": "site.js",
+  "compatibility_date": "2026-01-01",
+  "d1_databases": [
+    { "binding": "DB", "database_name": "nextframe-db", "database_id": "b302ff3c-06f2-47be-a0e6-0fb6dd312498" }
+  ]
+}
